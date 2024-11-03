@@ -1,0 +1,1 @@
+print("Hello World!") ##A função print exibe uma saída no prompt de comando aberto!
